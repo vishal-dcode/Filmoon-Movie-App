@@ -4,7 +4,7 @@ Filmoon is a simple movie app that allows users to search for movies and get inf
 
 ## 🌐 Live Demo
 
-You can check out the live demo of Filmoon at [filmoon-movie-app](https://filmoon-movie.netlify.app/)
+You can check out the live demo of Filmoon at <a href="https://filmoon-movie.netlify.app/" target="_blank">filmoon-movie-app</a>
 
 ![App Screenshot](https://i.ibb.co/FKK3GDf/Filmoon-Preview.png)
 
